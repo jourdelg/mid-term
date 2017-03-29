@@ -12,8 +12,9 @@ p {
 }
 .container {
     max-width: 800px
-    margin:auto;
+    margin: 800px;
 }
 ul{
   list-style: none;
 }
+header
