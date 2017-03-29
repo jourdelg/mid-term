@@ -12,9 +12,11 @@ p {
 }
 .container {
     max-width: 800px
-    margin: 800px;
+    margin:auto;
 }
 ul{
   list-style: none;
 }
-header
+header {
+    color: black
+     
