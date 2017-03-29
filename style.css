@@ -5,10 +5,10 @@ body {
     <font size=18> 
 }
 h1 {
-    color: white;
+    color: gray;
 }
 p {
-    color: pink;
+    color: white;
 }
 .container {
     max-width: 800px
