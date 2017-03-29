@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: pink;
+}
+h1 {
+    color: white;
+}
+p {
+    color: pink;
+}
+.container {
+    max-width: 800px
+    margin:auto;
+}
+ul{
+  list-style: none;
+}
